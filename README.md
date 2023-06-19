@@ -1,0 +1,3 @@
+# Python_Mundo2_Curso_em_Video
+Exercicios e desafios do curso de Python pelo curso em video. 
+Ainda em andamento...
